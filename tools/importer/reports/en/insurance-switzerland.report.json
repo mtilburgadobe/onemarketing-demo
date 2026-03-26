@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "url": "https://www.allianz.ch/en/insurance-switzerland.html",
+  "path": "en/insurance-switzerland",
+  "timestamp": "2026-03-26T08:45:57.827Z",
+  "title": "Insurance policies in Switzerland for private individuals | Allianz",
+  "template": "insurance-overview",
+  "blocks": [
+    "hero-banner",
+    "columns-info",
+    "columns-info"
+  ]
+}

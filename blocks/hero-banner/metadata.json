@@ -1,0 +1,39 @@
+{
+  "variantName": "hero-banner",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2026-03-26T08:25:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.allianz.ch/en/insurance-switzerland.html",
+    "originPage": "Insurance overview landing page",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "spacious",
+    "purpose": "insurance-landing",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "heading + CTA",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "Landing pages with full-width background images",
+      "Insurance or financial product overview pages",
+      "Pages needing prominent hero banner with dark overlay"
+    ],
+    "notSuitableFor": [
+      "Text-only hero sections without images",
+      "Minimal or compact hero layouts",
+      "Pages with light-themed hero areas"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/en/insurance-switzerland"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-26T08:25:00.000Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "variantName": "columns-info",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2026-03-26T08:25:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.allianz.ch/en/insurance-switzerland.html",
+    "originPage": "Insurance overview landing page",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "overview",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "heading + list | heading + list",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "Side-by-side informational content",
+      "Table of contents paired with key facts",
+      "Customer rating or review comparison layouts"
+    ],
+    "notSuitableFor": [
+      "Image-heavy column layouts",
+      "Product comparison grids",
+      "Layouts requiring more than 2 columns"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/en/insurance-switzerland"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-26T08:25:00.000Z"
+  }
+}
